@@ -1,6 +1,6 @@
 Some very useful books about automatic algorithm design or VRP are listed as follows.
 
-- (2002) The Vehicle Routing Problem
+- (2002) [The Vehicle Routing Problem](https://epubs.siam.org/doi/pdf/10.1137/1.9780898718515.fm)
 - (2008) The Vehicle Routing Problem: Latest Advances and New Challenges
 - (2014) Vehicle Routing: Problems, Methods and Applications (Second Edition)
 - (2018) Combinatorial Optimization (Sixth Edition)
