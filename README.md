@@ -1,9 +1,9 @@
 # Automatic-algorithm-design-Literatures
 
 There are four kinds of referenced materials (four subfolders):
-- Books
-- Papers
-- Slides
+- [Books](https://github.com/FeiLiu36/Automatic-algorithm-design-Literatures/tree/main/Literatures/1-Books)
+- [Papers](https://github.com/FeiLiu36/Automatic-algorithm-design-Literatures/tree/main/Literatures/2-Papers)
+- [Slides](https://github.com/FeiLiu36/Automatic-algorithm-design-Literatures/tree/main/Literatures/3-Slides)
 - Others
 
 They are formatted according to some rules:
