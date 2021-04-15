@@ -1,12 +1,16 @@
 # Automatic-algorithm-design-Literatures
 
-There are four kinds of referenced materials (four subfolders):
+1.Each folder are organized as follows:
+
+2.There are four subfolders corresponding to different materials:
 - Books
 - Papers
 - Slides
 - Notes
 
-They are formatted according to some rules:
-- there is a brief overview on the root directory of each subfolder
-- the main ideas and relations of literatures are summarized and listed
-- for each work, the main contribution, experiments, and conclusions are listed
+3.Each folder and subfolder will be equipped with an overview.
+
+4.Inside the subfolder, each material is introduced with some common parts:
+- a brief overview
+- main contribution
+- results and conclusions
