@@ -22,7 +22,7 @@ There are some supplementary remarks:
 and following is one way to understand the relationship between different methods:
 
 - Generally, there are two objectives: minimize the budget and the gap to optimal.
-- Different categories (exact algorithms, population-based heuristic, local search) emphasize on different areas.
+- Different categories (exact algorithms, population-based heuristic, local search) emphasize on different areas in this objective space.
 - Red lines are generations of the capacity of state-of-the-art methods, it moves towards lower left  corner. 
 - In the future, there may be a mixed of different methods with ML as a driver.
 
