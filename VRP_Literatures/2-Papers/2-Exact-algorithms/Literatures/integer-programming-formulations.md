@@ -12,6 +12,8 @@ There are mainly three types of formulations:
 
 <img src="C:\Users\fliu36\AppData\Roaming\Typora\typora-user-images\image-20210418121619535.png" align="left" />
 
+
+
 ##### Set partition formulation:
 
 <img src="C:\Users\fliu36\AppData\Roaming\Typora\typora-user-images\image-20210418122030316.png" style="zoom: 80%;" align="left"/>
