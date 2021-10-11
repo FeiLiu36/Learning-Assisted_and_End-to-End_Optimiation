@@ -1,2 +1,2 @@
-# Automatic-algorithm-design-Literatures
+# Learning to Optimize 讨论班
 
