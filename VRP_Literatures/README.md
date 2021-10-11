@@ -1,5 +1,4 @@
-
-To my best knowledge, the existed methods for solving VRP and its variants can be divided into three big categories:
+The existed methods for solving VRP and its variants can be roughly divided into three categories:
 - Exact algorithms
 - Heuristics (including constructive, improvement and metaheuristics)
 - Machine learning
