@@ -10,5 +10,12 @@
 
 + **纪要：**
 
+Survey: learning to optimize   
   
+FeiLiu: 自动算法设计，组合优化
+LinGui: math + heuristics + ML, 排序
+Chengyu Lu: L2O, 组合优化
 
+读书计划：
+A course in combinatorial optimization
+Machine learning for combinatorial optimization: A methodological tour d’horizon
