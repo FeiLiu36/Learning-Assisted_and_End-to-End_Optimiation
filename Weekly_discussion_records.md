@@ -53,7 +53,7 @@
 + **记录人：** 柳斐
 
 + **纪要：**
-  + 主题和Survey大致方向:   learning to optimize   
+  + 主题和Survey大致方向:   learning to optimize for combinatorial optimization
   + 后续大致方向
     + FeiLiu: 自动算法设计，组合优化
     + LinGui: math + heuristics + ML, 排序问题
