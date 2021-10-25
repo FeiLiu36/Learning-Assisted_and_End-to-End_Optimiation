@@ -42,3 +42,30 @@
     + Guide local search (GL)
     + Meta-learning in neural network (LF)
     + 定 survey 框架 + title
+
+
+### 第3周
+
++ **时间：** 2021.10.25     **地点：** CityU AC1 G7315会议室
+
++ **参与人员：** 柳斐，卢承宇，桂林
+
++ **记录人：** 柳斐
+
++ **纪要：**
+  + 主题和Survey大致方向:   learning to optimize   
+  + 后续大致方向
+    + FeiLiu: 自动算法设计，组合优化
+    + LinGui: math + heuristics + ML, 排序问题
+    + Chengyu Lu: L2O, 组合优化
+
+  + 讨论记录
+    + 对比L2O的效果 和 传统的优化方法 在组合优化问题上的效果，验证L2O优劣程度
+    + L2O 的一个通用的明确的定义
+    + 组合优化问题分成几个大类
+    + 机器学习与动态规划
+  
+  + 下一周读书计划：
+    + A course in combinatorial optimization 第二章 
+    + 定 survey 框架
+
