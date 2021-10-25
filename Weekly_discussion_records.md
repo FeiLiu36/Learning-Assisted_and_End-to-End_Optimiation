@@ -67,5 +67,6 @@
   
   + 下一周读书计划：
     + A course in combinatorial optimization 第二章 
-    + 定 survey 框架
+    + Xijun Li 
+    + survey 框架
 
