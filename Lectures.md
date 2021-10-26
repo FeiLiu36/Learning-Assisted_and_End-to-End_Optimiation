@@ -2,8 +2,8 @@
 
 + [2020HUAWEI_Learning to optimize研讨会]
 
-  链接：https://pan.baidu.com/s/1b9bbJiLOhlT2y2vBQM6i-A 
-  提取码：3p6v
+  录屏链接：https://pan.baidu.com/s/1b9bbJiLOhlT2y2vBQM6i-A 
+  提取码：联系fliu36-c@my.cityu.edu.hk
 
   + 基本信息：2020.12.18
 
