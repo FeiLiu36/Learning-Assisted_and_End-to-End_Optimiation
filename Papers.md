@@ -27,3 +27,12 @@
    + 基本信息：2021 
    + 摘要：
    + 笔记： 
+
+7.[Reinforcement learning for combinatorial optimization: A survey](https://www.sciencedirect.com/science/article/pii/S0305054821001660)
+  + 基本信息：2021 
+  + 摘要：
+  + 笔记：
+8.[Learning to Perform Local Rewriting for Combinatorial Optimization] (https://arxiv.org/abs/1810.00337)
+  + 基本信息：2018 
+  + 摘要：
+  + 笔记：
