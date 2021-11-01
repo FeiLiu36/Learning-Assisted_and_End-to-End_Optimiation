@@ -8,7 +8,7 @@
   + 基本信息：2018 Bernhard Korte, Jens Vygen, 
   + 摘要：The essential fundamentals of graph theory, linear and integer programming, and complexity theory. Some classical topics in CO
   + 笔记：
-+[Integer and Combinatorial Optimization](https://www.wiley.com/en-us/Integer+and+Combinatorial+Optimization-p-9780471359432)
++ [Integer and Combinatorial Optimization](https://www.wiley.com/en-us/Integer+and+Combinatorial+Optimization-p-9780471359432)
   + 基本信息：Laurence A. Wolsey, George L. Nemhauser
   + 摘要：
   + 笔记：
