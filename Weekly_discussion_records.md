@@ -95,7 +95,7 @@
     + what,where,when,how
   
   + 下一周读书计划：
-    + A course in combinatorial optimization 第二章 
-    + Xijun Li, 仓库分类 （Chengyu Lu）
-    + survey 框架
-
+    + A course in combinatorial optimization 第二章 一人一节
+    + Xijun Li, 仓库分类, 方法的角度分类 （Chengyu Lu）
+    + 问题的角度分类 （Gui Lin）
+    + 定义和相关领域 （Fei Liu）
