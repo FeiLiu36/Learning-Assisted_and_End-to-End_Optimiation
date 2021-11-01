@@ -33,7 +33,7 @@
   + 摘要：
   + 笔记：
 
-8.[Learning to Perform Local Rewriting for Combinatorial Optimization] (https://arxiv.org/abs/1810.00337)
+8.[Learning to Perform Local Rewriting for Combinatorial Optimization](https://arxiv.org/abs/1810.00337)
   + 基本信息：2018 
   + 摘要：
   + 笔记：
