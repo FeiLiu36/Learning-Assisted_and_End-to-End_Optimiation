@@ -212,7 +212,7 @@
     + Chengyu Lu: L2O, 组合优化
 
   + 讨论记录
-    + 整理之前的notes
+    + 整理之前的读书笔记
   
   + 下一周读书计划：
     + A course in combinatorial optimization 第三章第三节
