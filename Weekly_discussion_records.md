@@ -218,5 +218,5 @@
     + A course in combinatorial optimization 第三章第三节
     + Xijun Li, 仓库分类, 方法的角度分类，Bing Wang 老师编译器优化（Chengyu Lu）
     + 问题的角度分类完善review （Gui Lin）
-    + 定义和相关领域，contribution, abstract （Fei Liu）
+    + 更新最新文献，定义和相关领域，contribution, abstract （Fei Liu）
 
