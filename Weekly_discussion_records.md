@@ -229,11 +229,6 @@
 + **记录人：** 柳斐
 
 + **纪要：**
-  + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
-  + 后续大致方向
-    + FeiLiu: 自动算法设计，组合优化
-    + LinGui: math + heuristics + ML, 排序问题
-    + Chengyu Lu: L2O, 组合优化
 
   + 讨论记录
     + 讨论第三章第三节
@@ -241,6 +236,7 @@
   
   + 下一周读书计划：
     + A course in combinatorial optimization 第三章第四节
-    + Xijun Li, 仓库分类, 方法的角度分类，Bing Wang 老师编译器优化（Chengyu Lu）
-    + 问题的角度分类完善review （Gui Lin）
     + 更新最新文献，定义和相关领域，contribution, abstract （Fei Liu）
+
+  + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
+
