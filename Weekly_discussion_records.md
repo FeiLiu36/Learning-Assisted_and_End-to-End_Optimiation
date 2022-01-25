@@ -298,3 +298,22 @@
 
   + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
 
+### 第15周
+
++ **时间：** 2022.1.24   **地点：** CityU AC1 G7315会议室
+
++ **参与人员：** 柳斐，卢承宇，桂林
+
++ **记录人：** 柳斐
+
++ **纪要：**
+
+  + 讨论记录
+    + 讨论 A course in combinatorial optimization 第四章第一节
+  
+  + 下一周读书计划：
+    + A course in combinatorial optimization 第四章第二节
+    + 更新最新文献
+
+  + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
+
