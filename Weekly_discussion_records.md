@@ -317,21 +317,22 @@
 
   + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
 
-第16周
-时间： 2022.3.2 地点： 腾讯会议
+### 第16周
 
-参与人员： 柳斐，卢承宇，桂林
++ **时间：** 2022.3.2   **地点：** 腾讯会议
 
-记录人： 柳斐
++ **参与人员：** 柳斐，卢承宇，桂林
 
-纪要：
++ **记录人：** 柳斐
 
-讨论记录
++ **纪要：**
 
-讨论 A course in combinatorial optimization 第五章第一节
-下一周读书计划：
+  + 讨论记录
+    + 讨论 A course in combinatorial optimization 第五章第一节
+  
+  + 下一周读书计划：
+    + A course in combinatorial optimization 第五章第二节
+    + 更新最新文献
 
-A course in combinatorial optimization 第五章第二节
-更新最新文献
-主题和Survey大致方向: Meta-analysis on learning to optimize for combinatorial optimization
+  + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
 
