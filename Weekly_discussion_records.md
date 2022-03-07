@@ -336,3 +336,23 @@
 
   + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
 
+
+### 第17周
+
++ **时间：** 2022.3.7   **地点：** 腾讯会议
+
++ **参与人员：** 柳斐，卢承宇，桂林
+
++ **记录人：** 柳斐
+
++ **纪要：**
+
+  + 讨论记录
+    + 讨论 VRP 算法和 java 代码
+  
+  + 下一周读书计划：
+    + A course in combinatorial optimization 第五章第二节
+    + 更新最新文献
+
+  + 主题和Survey大致方向:  Meta-analysis on learning to optimize for combinatorial optimization
+
