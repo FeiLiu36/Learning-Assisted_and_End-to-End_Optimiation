@@ -6,4 +6,5 @@
 
 
 ## Papers
-[An Overview and Experimental Study of Learning-Based Optimization Algorithms for the Vehicle Routing Problem](https://ieeexplore.ieee.org/abstract/document/9812526)
++ [An Overview and Experimental Study of Learning-Based Optimization Algorithms for the Vehicle Routing Problem](https://ieeexplore.ieee.org/abstract/document/9812526)
++ [Learning to Solve Vehicle Routing Problems: A Survey](https://arxiv.org/abs/2205.02453)
