@@ -2,7 +2,7 @@
 
 ## Online Resources
 
-+[Deep Learning for Routing Problems](https://www.chaitjo.com/post/deep-learning-for-routing-problems/)
++ [Deep Learning for Routing Problems Blog by C. K. Joshi](https://www.chaitjo.com/post/deep-learning-for-routing-problems/)
 
 
 ## Papers
