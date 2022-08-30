@@ -18,8 +18,17 @@
   + 笔记：
 
 
-# Course, textbooks and slides
+# Online Resources
 
++ [learning to opt HUAWEI](https://github.com/xijunlee/Learning-to-Optimize-Arxiv)
+  + 基本信息：华为Xijun LI, Huiling Zhen, Zhenkun Wang
+  + 摘要：
+  + 笔记：
+
++ [Machine Learning for Combinatorial Optimization SJTU](https://github.com/Thinklab-SJTU/awesome-ml4co)
+  + 基本信息：
+  + 摘要：
+  + 笔记：
 + [A course in combinatorial optimization](https://homepages.cwi.nl/~lex/files/dict.pdf)
   + 基本信息：Alexander Schrijver, SWI, Amsterdam, University of Amsterdam, Amsterdam, The Netherlands
   + 摘要：
