@@ -3,6 +3,7 @@
 ## Online Resources
 
 + [Deep Learning for Routing Problems Blog by C. K. Joshi](https://www.chaitjo.com/post/deep-learning-for-routing-problems/)
++ [[Video]Recent Advances in Deep Learning for Routing Problems](https://www.youtube.com/watch?v=KkUL0UETN0w)
 
 
 ## Papers
