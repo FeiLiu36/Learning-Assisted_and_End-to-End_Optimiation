@@ -16,4 +16,8 @@
 ![image](https://user-images.githubusercontent.com/40708416/187873755-be215c5c-c4f2-4b8a-a2e3-408cab7d9295.png)
 
 
-+ Poi
++ [Pointer Networks / Pointer Networks / NeurIPS 2015](https://proceedings.neurips.cc/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html)
++ [Pointer Networks + RL / Neural combinatorial optimization with reinforcement learning / arXiv 2016](https://arxiv.org/abs/1611.09940)
++ [GNN / Learning combinatorial optimization algorithms over graphs / NeurIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/d9896106ca98d3d05b8cbdf4fd8b13a1-Abstract.html)
++ [Attention / Attention, learn to solve routing problems! / arXiv 2018](https://arxiv.org/abs/1803.08475)
++ [2018] RL for VRP
