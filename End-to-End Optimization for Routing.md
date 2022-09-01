@@ -5,10 +5,14 @@
 + [Deep Learning for Routing Problems Blog by C. K. Joshi](https://www.chaitjo.com/post/deep-learning-for-routing-problems/)
 + [[Video]Recent Advances in Deep Learning for Routing Problems](https://www.youtube.com/watch?v=KkUL0UETN0w)
 
+## Prelimiaries
+
++[sequence to sequence deep learning](https://www.youtube.com/watch?v=G5RY_SUJih4)
 
 ## Papers
 + [An Overview and Experimental Study of Learning-Based Optimization Algorithms for the Vehicle Routing Problem](https://ieeexplore.ieee.org/abstract/document/9812526)
 + [Learning to Solve Vehicle Routing Problems: A Survey](https://arxiv.org/abs/2205.02453)
++ 
 
 
 ## Roadmap of end-to-end approach
