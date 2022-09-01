@@ -12,6 +12,8 @@
 
 
 ## Roadmap of end-to-end approach
+There are two encoding strategies: 1) sequence-to-sequence (S2S) and 2) graph neural networks (GNN)
+S2S model is originated from recurrent neural network. The original recurrent neural network can not handle the problem where the lenght of input and output sequences are of different sizes. Sequence to sequence model takled the problem by using a 
 ![image](https://user-images.githubusercontent.com/40708416/187873625-e9e809e2-320f-4a7a-be41-1e33e19de7f2.png)
 ![image](https://user-images.githubusercontent.com/40708416/187873755-be215c5c-c4f2-4b8a-a2e3-408cab7d9295.png)
 
