@@ -8,6 +8,7 @@
 ## Prelimiaries
 
 + [Youtube talk, sequence to sequence deep learning](https://www.youtube.com/watch?v=G5RY_SUJih4)
++ [Youtube Andrew NG, attention model](https://www.youtube.com/watch?v=quoGRI-1l0A)
 
 ## Papers
 + [An Overview and Experimental Study of Learning-Based Optimization Algorithms for the Vehicle Routing Problem](https://ieeexplore.ieee.org/abstract/document/9812526)
