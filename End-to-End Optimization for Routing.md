@@ -7,7 +7,7 @@
 
 ## Prelimiaries
 
-+[sequence to sequence deep learning](https://www.youtube.com/watch?v=G5RY_SUJih4)
++ [Youtube talk, sequence to sequence deep learning](https://www.youtube.com/watch?v=G5RY_SUJih4)
 
 ## Papers
 + [An Overview and Experimental Study of Learning-Based Optimization Algorithms for the Vehicle Routing Problem](https://ieeexplore.ieee.org/abstract/document/9812526)
