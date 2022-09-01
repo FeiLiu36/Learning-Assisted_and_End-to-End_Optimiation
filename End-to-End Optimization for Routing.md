@@ -20,4 +20,4 @@
 + [Pointer Networks + RL / Neural combinatorial optimization with reinforcement learning / arXiv 2016](https://arxiv.org/abs/1611.09940)
 + [GNN / Learning combinatorial optimization algorithms over graphs / NeurIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/d9896106ca98d3d05b8cbdf4fd8b13a1-Abstract.html)
 + [Attention / Attention, learn to solve routing problems! / arXiv 2018](https://arxiv.org/abs/1803.08475)
-+ [2018] RL for VRP
++ [RL for VRP / Reinforcement learning for solving the vehicle routing problem / NeurIPS 2018 ](https://proceedings.neurips.cc/paper/2018/hash/9fb4651c05b2ed70fba5afe0b039a550-Abstract.html)
