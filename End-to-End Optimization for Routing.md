@@ -25,6 +25,7 @@ S2S model is originated from recurrent neural network. The original recurrent ne
 
 + [Pointer Networks / Pointer Networks / NeurIPS 2015](https://proceedings.neurips.cc/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html)
 + [Pointer Networks + RL / Neural combinatorial optimization with reinforcement learning / arXiv 2016](https://arxiv.org/abs/1611.09940)
+    [A Video](https://www.youtube.com/watch?v=mxCVgVrUw50)
 + [GNN / Learning combinatorial optimization algorithms over graphs / NeurIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/d9896106ca98d3d05b8cbdf4fd8b13a1-Abstract.html)
 + [Attention / Attention, learn to solve routing problems! / arXiv 2018](https://arxiv.org/abs/1803.08475)
 + [RL for VRP / Reinforcement learning for solving the vehicle routing problem / NeurIPS 2018 ](https://proceedings.neurips.cc/paper/2018/hash/9fb4651c05b2ed70fba5afe0b039a550-Abstract.html)
